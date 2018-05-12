@@ -1,0 +1,36 @@
+_repo: The-Anti-Slavery-Alphabet_16081
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_bookshelf:
+- Children's History
+- Children's Picture Books
+- Slavery
+gutenberg_issued: '2005-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16081'
+  lccn: '11007591'
+language: en
+publication_note: "Philadelphia:\r\nPrinted For The Anti-slavery Fair.\r\n1847.\r\n\
+  Merrihew & Thompson, Printers, 7 Carter's Alley."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States -- Poetry'
+- !lcsh 'Alphabets'
+- !lcc 'E300'
+title: The Anti-Slavery Alphabet
+url: http://www.gutenberg.org/ebooks/16081
